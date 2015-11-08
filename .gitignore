@@ -21,6 +21,7 @@ sdist/
 var/
 *.egg-info/
 .installed.cfg
+/data/ElectionsData.csv-copy
 *.egg
 
 # PyInstaller
